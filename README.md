@@ -13,9 +13,9 @@ In this project we propose to construct a collision warning system for driverles
 #### Database: <br>
 Berkeley self-drive database( https://deepdrive.berkeley.edu/   KITTI Database( http://www.cvlibs.net/datasets/kitti/ ) <br>
 #### Pyhton code base: <br>
-Keras or Caffe or Pytoch <br>
+Keras or Caffe or Pytoch(https://github.com/pytorch/pytorch) <br>
 #### Deep learning Network:<br>
-Faster-R-CNN, Yolo <br>
+Faster-R-CNN(https://github.com/Weizhongjin/faster-rcnn.pytorch), Yolo <br>
 #### Focus on :<br>
 Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
