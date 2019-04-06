@@ -1,7 +1,7 @@
 #Final Project 
 ====
 ##Collision warning system for self-driving vehicle.
--------
+
 ###Project summary: 
 
 In this project we propose to construct a collision warning system for driverless vehicle to detect dynamic objects in the drivable region. Through the input video from driving recorder, the system can estimate the drivable space in 3D, provide category of obstacles present in lane, and eventually output “Go” and “Stop” command. To implement these function, we need to train convolutional neural networks for object detection and semantic segmentation.
