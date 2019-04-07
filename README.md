@@ -10,18 +10,18 @@ In this project we propose to construct a collision warning system for driverles
 
 ### Detail:<br>
 
-#### Database: <br>
+#### *Database: <br>
 [Berkeley self-drive database](https://deepdrive.berkeley.edu/)   and [KITTI Database](http://www.cvlibs.net/datasets/kitti/) <br>
-#### Pyhton code base: <br>
+#### *Pyhton code base: <br>
 [Keras or Caffe or Pytoch](https://github.com/pytorch/pytorch) <br>
-#### Deep learning Network:<br>
+#### *Deep learning Network:<br>
 [Faster-R-CNN](https://github.com/Weizhongjin/faster-rcnn.pytorch), Yolo <br>
-#### Focus on :<br>
+#### *Focus on :<br>
 Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
 ### Reference:  <br>
 
-#### Paper<br>
+#### *Paper<br>
 1.	Ross Girshick. “Fast R-CNN”, IEEE International Conference on Computer Vision. 2015.<br>
 2.	S. Ren, K. He, R. Girshick and J. Sun. “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks”, 2017 IEEE Transactions on Pattern Analysis and Machine Intelligence. <br>
 3.  Wieland Brendel, Matthias Bethge. “Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet”, ICLR 2019 Conference Blind Submission <br>
@@ -59,7 +59,7 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 19. [W. Wang, B. Wu, S. Yang and Z. Wang, "Road Damage Detection and Classification with Faster R-CNN," 2018 IEEE International Conference on Big Data (Big Data), Seattle, WA, USA, 2018, pp. 5220-5223.](http://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=8622354&isnumber=8621858)
 
 
-#### Useful Website: <br>
+#### *Useful Website: <br>
 [Coursera courses:visual-perception-self-driving-cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) <br>
 
 
