@@ -52,7 +52,7 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
 16. [S. Wu and Y. Xu, "DSN: A New Deformable Subnetwork for Object Detection," in IEEE Transactions on Circuits and Systems for Video Technology.](http://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=8667874&isnumber=4358651)<br>
 
-17. [M. Manana, C. Tu and P. A. Owolawi, "Preprocessed Faster RCNN for Vehicle Detection," 2018 International Conference on Intelligent and Innovative Computing Applications (ICONIC), Plaine Magnien, 2018, pp. 1-4.](ttp://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=8601243&isnumber=8601084)<br>
+17. [M. Manana, C. Tu and P. A. Owolawi, "Preprocessed Faster RCNN for Vehicle Detection," 2018 International Conference on Intelligent and Innovative Computing Applications (ICONIC), Plaine Magnien, 2018, pp. 1-4.](http://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=8601243&isnumber=8601084)<br>
 
 18. [M. Roh and J. Lee, "Refining faster-RCNN for accurate object detection," 2017 Fifteenth IAPR International Conference on Machine Vision Applications (MVA), Nagoya, 2017, pp. 514-517.](http://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=7986913&isnumber=7986754)<br>
 
