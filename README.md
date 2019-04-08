@@ -15,7 +15,8 @@ In this project we propose to construct a collision warning system for driverles
 #### * Pyhton code base: <br>
 [Keras or Caffe or Pytoch](https://github.com/pytorch/pytorch) <br>
 #### * Deep learning Network:<br>
-[Faster-R-CNN](https://github.com/Weizhongjin/faster-rcnn.pytorch), Yolo <br>
+[Faster-R-CNN](https://github.com/Weizhongjin/faster-rcnn.pytorch)<br>
+Yolo[paper](https://arxiv.org/abs/1506.02640),[Yolo ppt](https://blog.csdn.net/u014380165/article/details/72616238),[More Detail in Yolo](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_4107),[code](https://github.com/pjreddie/darknet)<br>
 #### * Focus on :<br>
 Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
