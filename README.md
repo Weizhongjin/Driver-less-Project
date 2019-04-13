@@ -24,7 +24,7 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
 #### * Paper<br>
 1.	Ross Girshick. “Fast R-CNN”, IEEE International Conference on Computer Vision. 2015.<br>
-2.	S. Ren, K. He, R. Girshick and J. Sun. “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks”, 2017 IEEE Transactions on Pattern Analysis and Machine Intelligence. <br>
+2.	[S. Ren, K. He, R. Girshick and J. Sun. “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks”, 2017 IEEE Transactions on Pattern Analysis and Machine Intelligence](https://arxiv.org/pdf/1506.01497.pdf) <br>
 3.  Wieland Brendel, Matthias Bethge. “Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet”, ICLR 2019 Conference Blind Submission <br>
 
 4.  [R. Zhang, Y. Yang, W. Wang, L. Zeng, J. Chen and S. McGrath, "An Algorithm for Obstacle Detection based on YOLO and Light Filed Camera," 2018 12th International Conference on Sensing Technology (ICST), Limerick, 2018, pp. 223-226.](http://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=8603600&isnumber=8603546)<br>
