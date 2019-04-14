@@ -69,3 +69,5 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
 Mac osx: Program <br>
 AWS p3.2xlarge GPU: Training Network<br>
+Final Data: [VOC Form KITTI](https://s3.amazonaws.com/weizhongjin/VOC2012.zip)<br>
+
