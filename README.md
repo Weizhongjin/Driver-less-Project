@@ -12,8 +12,10 @@ In this project we propose to construct a collision warning system for driverles
 
 #### * Database: <br>
 [Berkeley self-drive database](https://deepdrive.berkeley.edu/)   and [KITTI Database](http://www.cvlibs.net/datasets/kitti/) <br>
+
 #### * Pyhton code base: <br>
 [Keras or Caffe or Pytoch](https://github.com/pytorch/pytorch) <br>
+
 #### * Deep learning Network:<br>
 [Faster-R-CNN](https://github.com/Weizhongjin/faster-rcnn.pytorch)<br>[Faster-Rcnn-Good-Blog](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/#ITEM-1455-2)<br>
 Yolo[paper](https://arxiv.org/abs/1506.02640),[Detail in Yolo](https://blog.csdn.net/u014380165/article/details/72616238),[PPT](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_4107),[code](https://github.com/pjreddie/darknet)<br>
@@ -101,3 +103,5 @@ more details please view https://github.com/jwyang/faster-rcnn.pytorch
 ```
 ./jwz.sh
 ```
+
+-5 text and demo process will post laterly
