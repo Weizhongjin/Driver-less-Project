@@ -61,13 +61,13 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 
 
 #### * Useful Website: <br>
-[Coursera courses:visual-perception-self-driving-cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) <br>
-[KITTI数据集简介与使用](https://blog.csdn.net/Solomon1558/article/details/70173223)<br>
-[KITTI数据使用序列——3D Object检测数据集使用](https://blog.csdn.net/hit1524468/article/details/79766805)<br>
+-1 [Coursera courses:visual-perception-self-driving-cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) <br>
+-2 [KITTI数据集简介与使用](https://blog.csdn.net/Solomon1558/article/details/70173223)<br>
+-3 [KITTI数据使用序列——3D Object检测数据集使用](https://blog.csdn.net/hit1524468/article/details/79766805)<br>
 
 ### Machine: <br>
 
-Mac osx: Program <br>
-AWS p3.2xlarge GPU: Training Network<br>
-Final Data: [VOC Form KITTI](https://s3.amazonaws.com/weizhongjin/VOC2012.zip)<br>
-
+-1 Mac osx: Program <br>
+-2 AWS p3.2xlarge GPU: Training Network<br>
+-3 Final Data: [VOC Form KITTI](https://s3.amazonaws.com/weizhongjin/VOC2012.zip)<br>
+-4 GITHUB Fork : https://github.com/Weizhongjin/faster-rcnn.pytorch
