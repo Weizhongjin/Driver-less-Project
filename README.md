@@ -82,22 +82,22 @@ This Faster-RCNN's Citation <br>
         }
 
 -1 
-'''
+```
 git clone https://github.com/Weizhongjin/faster-rcnn.pytorch.git
-'''
+```
 
 -2
-'''
+```
 cd faster-rcnn.pytorch
-'''
+```
 
 -3 Change the trainning information in jwz.sh
-'''
+```
 vim jwz.sh
-'''
+```
 more details please view https://github.com/jwyang/faster-rcnn.pytorch
 
 -4  Go with the jwz.sh, all command line code are includded
-'''
+```
 ./jwz.sh
-'''
+```
