@@ -8,23 +8,27 @@ Final Project
 
 In this project we propose to construct a collision warning system for driverless vehicle to detect dynamic objects in the drivable region. Through the input video from driving recorder, the system can estimate the drivable space in 3D, provide category of obstacles present in lane, and eventually output “Go” and “Stop” command. To implement these function, we need to train convolutional neural networks for object detection and semantic segmentation. <br>
 
+
+
 ### Detail:<br>
 
-#### * Database: <br>
+#### Database: <br>
 [Berkeley self-drive database](https://deepdrive.berkeley.edu/)   and [KITTI Database](http://www.cvlibs.net/datasets/kitti/) <br>
 
-#### * Pyhton code base: <br>
+#### Pyhton code base: <br>
 [Keras or Caffe or Pytoch](https://github.com/pytorch/pytorch) <br>
 
-#### * Deep learning Network:<br>
+#### Deep learning Network:<br>
 [Faster-R-CNN](https://github.com/Weizhongjin/faster-rcnn.pytorch)<br>[Faster-Rcnn-Good-Blog](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/#ITEM-1455-2)<br>
 Yolo[paper](https://arxiv.org/abs/1506.02640),[Detail in Yolo](https://blog.csdn.net/u014380165/article/details/72616238),[PPT](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_4107),[code](https://github.com/pjreddie/darknet)<br>
-#### * Focus on :<br>
+#### Focus on :<br>
 Novality of the network, usc bagnet to substitute the traditional cnn. <br>
+
+
 
 ### Reference:  <br>
 
-#### * Paper<br>
+####  Paper<br>
 1.	Ross Girshick. “Fast R-CNN”, IEEE International Conference on Computer Vision. 2015.<br>
 2.	[S. Ren, K. He, R. Girshick and J. Sun. “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks”, 2017 IEEE Transactions on Pattern Analysis and Machine Intelligence](https://arxiv.org/pdf/1506.01497.pdf) <br>
 3.  Wieland Brendel, Matthias Bethge. “Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet”, ICLR 2019 Conference Blind Submission <br>
@@ -66,6 +70,8 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 -1 [Coursera courses:visual-perception-self-driving-cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) <br>
 -2 [KITTI数据集简介与使用](https://blog.csdn.net/Solomon1558/article/details/70173223)<br>
 -3 [KITTI数据使用序列——3D Object检测数据集使用](https://blog.csdn.net/hit1524468/article/details/79766805)<br>
+
+
 
 ### Machine: <br>
 
