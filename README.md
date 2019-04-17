@@ -60,7 +60,7 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 19. [W. Wang, B. Wu, S. Yang and Z. Wang, "Road Damage Detection and Classification with Faster R-CNN," 2018 IEEE International Conference on Big Data (Big Data), Seattle, WA, USA, 2018, pp. 5220-5223.](http://ieeexplore.ieee.org.libproxy1.usc.edu/stamp/stamp.jsp?tp=&arnumber=8622354&isnumber=8621858)
 
 
-#### * Useful Website: <br>
+#### Useful Website: <br>
 -1 [Coursera courses:visual-perception-self-driving-cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) <br>
 -2 [KITTI数据集简介与使用](https://blog.csdn.net/Solomon1558/article/details/70173223)<br>
 -3 [KITTI数据使用序列——3D Object检测数据集使用](https://blog.csdn.net/hit1524468/article/details/79766805)<br>
@@ -71,3 +71,33 @@ Novality of the network, usc bagnet to substitute the traditional cnn. <br>
 -2 AWS p3.2xlarge GPU: Training Network<br>
 -3 Final Data: [VOC Form KITTI](https://s3.amazonaws.com/weizhongjin/VOC2012.zip)<br>
 -4 GITHUB Fork : https://github.com/Weizhongjin/faster-rcnn.pytorch
+
+#### Instruction of Useing this [Model](https://github.com/Weizhongjin/faster-rcnn.pytorch)
+This Faster-RCNN's Citation <br>
+        @article{jjfaster2rcnn,
+            Author = {Jianwei Yang and Jiasen Lu and Dhruv Batra and Devi Parikh},
+            Title = {A Faster Pytorch Implementation of Faster R-CNN},
+            Journal = {https://github.com/jwyang/faster-rcnn.pytorch},
+            Year = {2017}
+        }
+
+-1 
+'''
+git clone https://github.com/Weizhongjin/faster-rcnn.pytorch.git
+'''
+
+-2
+'''
+cd faster-rcnn.pytorch
+'''
+
+-3 Change the trainning information in jwz.sh
+'''
+vim jwz.sh
+'''
+more details please view https://github.com/jwyang/faster-rcnn.pytorch
+
+-4  Go with the jwz.sh, all command line code are includded
+'''
+./jwz.sh
+'''
